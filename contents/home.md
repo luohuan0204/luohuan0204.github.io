@@ -1,20 +1,20 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![luohuan0204](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/luohuan0204)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+He is currently pursuing a Master's Degree in Control Science and Engineering at the School of Automation, Chongqing University, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>huanluo@stu.cqu.edu.cn</code>  
+<!-- <code>luo990204@gmail.com</code> -->
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Chongqing University**, M.E. in Control Science and Engineering (2023.9 – 2026.6)  
+• GPA: 3.7/4.0(top 15%)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+<!-- **XX University**, Exchange student <br>  
+• As a XX, represented my college as an outstanding student for a XX exchange program.   -->
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Lanzhou University of Technology**, B.E. (Honors) in Automation (2018.9 – 2022.6)  
+• GPA: 3.7/4.0 (top 10%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Deep Learning, Battery Modeling, State Estimation, Fault Diagnosis.
