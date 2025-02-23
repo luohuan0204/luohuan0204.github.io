@@ -1,4 +1,4 @@
-[![luohuan0204](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/luohuan0204)
+[![luohuan0204](https://img.shields.io/badge/luohuan0204-github-blue?logo=github)](https://github.com/luohuan0204)
 
 He is currently pursuing a Master's Degree in Control Science and Engineering at the School of Automation, Chongqing University, China.
 
